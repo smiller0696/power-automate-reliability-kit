@@ -2,7 +2,6 @@
 
 ## 1) Create logging table (Dataverse)
 Create a table named (example) "Power Automate Failures" with:
-- Date (DateTime)
 - Error Message (Multiline Text)
 - Flow Name (Text)
 - Run URL (Text)
