@@ -1,1 +1,7 @@
-
+{
+  "name": "string",
+  "flowName": "string",
+  "errorMessage": "string",
+  "runUrl": "string",
+  "createdOn": "datetime",
+}
